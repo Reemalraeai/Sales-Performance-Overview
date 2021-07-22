@@ -26,32 +26,44 @@ For the dashboard, the next visualizations are added to serve the purpose of thi
 
 ![KPI](https://user-images.githubusercontent.com/71211875/126684811-2cbbaa4a-0024-44ad-a8ff-2b30cc474c7b.GIF)
 
+
 2- Stacked bar chart showing Sales by State and Category
+
 A Stacked bar chart was created to show sales value by state and category of product.
 
 ![Column Chart](https://user-images.githubusercontent.com/71211875/126684896-c1fc7a9f-bd9e-4eee-a2b7-1c1d3badd5c5.GIF)
 
+
 3- Column Chart showing Sales and Gross profit by Year
+
 A column chart (Line and clustered column chart) was created to show the total sales and gross profit by year (2017,2018 and 2019).
 
 ![Column Chart 2](https://user-images.githubusercontent.com/71211875/126684957-65ba8b5e-bf83-4b64-b41c-b1f04856bb2d.GIF)
 
+
 4- Area Chart showing Sales by month
+
 Created an area chart that shows the total sales of products over a span of 12 months
 
 ![Area Chart showing Sales by month](https://user-images.githubusercontent.com/71211875/126685013-0cd8ed3f-4110-4609-bc61-676fb1d10182.GIF)
 
+
 5- Multi-row card
+
 A multi-row card was created to show the information related to product categories, total sales per category, total units sold, and gross profit.
 
 ![Multi-row card](https://user-images.githubusercontent.com/71211875/126685065-05da2116-6d3f-4969-9f7e-e7e1de1e2e0d.GIF)
 
+
 6- Map showing total units sold by state
+
 Added a map showing total units sold per state in the USA.
 
 ![Map showing total units sold by state](https://user-images.githubusercontent.com/71211875/126685119-efd36d2f-fd87-417b-bf10-e24e0e402617.GIF)
 
+
 7- Slicer for Sub-categories of products
+
 Added a Slicer for Subcategories of products in the record. Using this slicer, users can select specific categories and filter through data.
 
 ![Slicer for Sub-categories of products](https://user-images.githubusercontent.com/71211875/126685178-82cc3322-c6ba-4620-9e49-81e86ef420dc.GIF)
