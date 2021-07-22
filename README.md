@@ -1,5 +1,5 @@
 # Sales-Performance-Overview
-Visualization of sales dataset to overview the sales performance.
+
 IMPORTING DATA
 
 First thing done was to import the data from the source file.
